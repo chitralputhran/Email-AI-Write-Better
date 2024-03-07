@@ -21,7 +21,7 @@ Email AI is a web application built with Streamlit and LangChain that simplifies
 
 1. Clone the repository:
    ```
-   git clone https://github.com/chitralputhran/Email-AI-Write-Better-Emails.git
+   git clone [https://github.com/chitralputhran/Email-AI-Write-Better-Emails.git](https://github.com/chitralputhran/Email-AI-Write-Better-Emails.git)
    ```
 
 2. Navigate to the project directory:
