@@ -1,5 +1,5 @@
 
-# 🍲 Email AI | Write better emails
+# 📧 Email AI | Write better emails
 
 Email AI is a web application built with Streamlit and LangChain that simplifies email writing by analyzing the required information, including the tone, number of lines, and sender and receiver names. Whether you're composing a formal business email or a casual message, Email AI helps you craft the perfect email effortlessly.
 
