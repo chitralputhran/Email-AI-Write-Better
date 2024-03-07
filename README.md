@@ -51,4 +51,4 @@ Open your web browser and go to `http://localhost:8501` to use the application.
 Contributions are welcome! If you have a feature request or a bug report, please open a new issue. If you want to contribute code, please open a pull request.
 
 ## Project Link: 
-Live Link: 
+Live Link: https://email-ai.streamlit.app
