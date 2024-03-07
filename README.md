@@ -1,13 +1,13 @@
 
 # 📧 Email AI | Write better emails
 
-Email AI is a web application built with Streamlit and LangChain that simplifies email writing by analyzing the required information, including the tone, number of lines, and sender and receiver names. Whether you're composing a formal business email or a casual message, Email AI helps you craft the perfect email effortlessly.
+Email AI is a web application built with Streamlit and LangChain that simplifies email writing by analyzing the required information, including the tone, number of lines, and sender and receiver names. Whether composing a formal or casual business email, Email AI helps you craft the perfect email effortlessly.
 
 ## Features
 
-- **Tone Analysis**: Set the desired tone for your email, whether it's formal, informal, persuasive, or friendly.
+- **Tone Analysis**: Set the desired tone for your email, whether formal, informal, persuasive, or friendly.
 - **Length Customization**: Specify the number of lines for your email to keep it concise or detailed as needed.
-- **Sender and Receiver Details**: Input the names of the sender and receiver for a personalized touch.
+- **Sender and Receiver Details**: Input the sender and receiver's names for a personalized touch.
 
 ## Getting Started
 
@@ -21,7 +21,7 @@ Email AI is a web application built with Streamlit and LangChain that simplifies
 
 1. Clone the repository:
    ```
-   git clone https://github.com/chitralputhran/Email-AI-Write-Better.git
+   git clone https://github.com/chitralputhran/Email-AI-Write-Better-Emails.git
    ```
 
 2. Navigate to the project directory:
@@ -43,7 +43,8 @@ streamlit run app.py
 Open your web browser and go to `http://localhost:8501` to use the application.
 
 ## Screenshots
-
+![s1](https://github.com/chitralputhran/Email-AI-Write-Better-Emails/assets/31520972/6367b06c-7812-487d-84d0-0d43e37df797)
+![s2](https://github.com/chitralputhran/Email-AI-Write-Better-Emails/assets/31520972/d2e97c52-3993-469b-a29f-a8e88d753027)
 
 
 ## Contributing
